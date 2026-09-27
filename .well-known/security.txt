@@ -1,0 +1,4 @@
+Contact: mailto:matej.biath@vyralafirst.com
+Expires: 2027-09-27T00:00:00Z
+Preferred-Languages: sk, cs, en
+Canonical: https://vyralafirst.com/.well-known/security.txt
